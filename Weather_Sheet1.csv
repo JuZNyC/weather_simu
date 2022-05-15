@@ -30,9 +30,8 @@ Date,Condition,Next,Prev
 06/29/2021,Sunny,Sunny,Sunny
 06/30/2021,Sunny,Rainy,Sunny
 07/01/2021,Rainy,Rainy,Sunny
-07/01/2021,Rainy,Cloudy,Rainy
-07/02/2021,Cloudy,Cloudy,Rainy
-07/03/2021,Cloudy,Cloudy,Cloudy
+07/02/2021,Rainy,Cloudy,Rainy
+07/03/2021,Cloudy,Cloudy,Rainy
 07/04/2021,Cloudy,Cloudy,Cloudy
 07/05/2021,Cloudy,Cloudy,Cloudy
 07/06/2021,Cloudy,Sunny,Cloudy
@@ -62,9 +61,8 @@ Date,Condition,Next,Prev
 07/30/2021,Sunny,Sunny,Cloudy
 07/31/2021,Sunny,Cloudy,Sunny
 08/01/2021,Cloudy,Sunny,Sunny
-08/01/2021,Sunny,Cloudy,Cloudy
-08/02/2021,Cloudy,Cloudy,Sunny
-08/03/2021,Cloudy,Cloudy,Cloudy
+08/02/2021,Sunny,Cloudy,Cloudy
+08/03/2021,Cloudy,Cloudy,Sunny
 08/04/2021,Cloudy,Cloudy,Cloudy
 08/05/2021,Cloudy,Sunny,Cloudy
 08/06/2021,Sunny,Cloudy,Cloudy
