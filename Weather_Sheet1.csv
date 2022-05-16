@@ -85,9 +85,9 @@ Date,Condition,Next,Prev,7day
 8/23/2021,Rainy,Sunny,Rainy,Cloudy
 8/24/2021,Sunny,Sunny,Rainy,Cloudy
 8/25/2021,Sunny,Sunny,Sunny,Cloudy
-8/26/2021,Sunny,Rainy,Sunny,1/0/1900
-8/27/2021,Rainy,Cloudy,Sunny,1/0/1900
-8/28/2021,Cloudy,Cloudy,Rainy,1/0/1900
-8/29/2021,Cloudy,Cloudy,Cloudy,1/0/1900
-8/30/2021,Cloudy,Cloudy,Cloudy,1/0/1900
-8/31/2021,Cloudy,Rainy,Cloudy,1/0/1900
+8/26/2021,Sunny,Rainy,Sunny,Cloudy
+8/27/2021,Rainy,Cloudy,Sunny,Cloudy
+8/28/2021,Cloudy,Cloudy,Rainy,Rainy
+8/29/2021,Cloudy,Cloudy,Cloudy,Cloudy
+8/30/2021,Cloudy,Cloudy,Cloudy,Rainy
+8/31/2021,Cloudy,Rainy,Cloudy,Rainy
